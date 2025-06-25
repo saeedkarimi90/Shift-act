@@ -1,6 +1,6 @@
-# SATA: Style Agnostic Test time Adaptation for Domain Generalization (IMAVIS _ 2025)
+# Shift-ACT: Test-Time Adaptation via Shift-aware Class-specific Dynamic Thresholding for Domain Generalization
 
-PyTorch implementation of (SATA: Style Agnostic Test time Adaptation for Domain Generalization)
+PyTorch implementation of Shift-ACT: Test-Time Adaptation via Shift-aware Class-specific Dynamic Thresholding for Domain Generalization
 
 Saeed Karimi, Hamdi Dibeklioglu
 ![Figure Description](figures/Figure1.png)
