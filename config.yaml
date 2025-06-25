@@ -1,0 +1,5 @@
+# Default update config
+# Config order: hparams_registry -> config.yaml -> CLI
+scheduler: const
+test_batchsize: 64
+indomain_test: False  # use indomain test split or not
